@@ -1,0 +1,30 @@
+.ion-content {
+    --background: url(C:\kastoori\ionic-react-music\public\assets\images\bg-img.jpg);
+    text-align: center;
+    height: 69vh!important;
+  }
+  
+  .const{
+      position: relative;
+   top: 150px!important;
+  
+  }
+  .get-started-btn{
+  
+  width: 150px;
+  height: 30px;
+  left: 31px;
+  top: 542px;
+  margin-top: 10px;
+  background: black;
+      border-radius: 50px;
+  }
+
+  .top-img{
+  width: 200px;
+  height: 200px;
+   position:relative; 
+   margin-left: 35px;
+   margin-bottom: 1px;
+   
+  }
